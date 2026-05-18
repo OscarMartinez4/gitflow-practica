@@ -1,1 +1,2 @@
 dashboard v1
+dashboard v2
